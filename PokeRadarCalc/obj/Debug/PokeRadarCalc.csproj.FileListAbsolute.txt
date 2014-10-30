@@ -3,3 +3,8 @@ c:\users\makar\documents\visual studio 2013\Projects\PokeRadarCalc\PokeRadarCalc
 c:\users\makar\documents\visual studio 2013\Projects\PokeRadarCalc\PokeRadarCalc\bin\Debug\PokeRadarCalc.pdb
 c:\users\makar\documents\visual studio 2013\Projects\PokeRadarCalc\PokeRadarCalc\obj\Debug\PokeRadarCalc.exe
 c:\users\makar\documents\visual studio 2013\Projects\PokeRadarCalc\PokeRadarCalc\obj\Debug\PokeRadarCalc.pdb
+C:\Users\Makar\Documents\GitHub\PokeRadarCalc\PokeRadarCalc\obj\Debug\PokeRadarCalc.exe
+C:\Users\Makar\Documents\GitHub\PokeRadarCalc\PokeRadarCalc\obj\Debug\PokeRadarCalc.pdb
+C:\Users\Makar\Documents\GitHub\PokeRadarCalc\PokeRadarCalc\bin\Debug\PokeRadarCalc.exe
+C:\Users\Makar\Documents\GitHub\PokeRadarCalc\PokeRadarCalc\bin\Debug\PokeRadarCalc.pdb
+C:\Users\Makar\Documents\GitHub\PokeRadarCalc\PokeRadarCalc\obj\Debug\PokeRadarCalc.csprojResolveAssemblyReference.cache
